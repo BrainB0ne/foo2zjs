@@ -133,7 +133,7 @@ GENERAL
 
     FOO2HBPL2
     ---------
-    foo2hbpl2 converts Ghostscript pbmraw, bitcmyk, or pksmraw output  for‐
+    foo2hbpl2 converts Ghostscript pbmraw, bitcmyk, or pksmraw output  for-
     mats  to  monochrome  or  color HBPL version 2 streams.
 
 	- Dell 1355 Multifunction Color Printer
